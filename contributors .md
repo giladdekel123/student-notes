@@ -1,6 +1,6 @@
 # Contributors — תורמי הפרויקט
 
-![Contributors](https://img.shields.io/github/contributors/your-username/student-notes)
+![Contributors](https://img.shields.io/github/contributors/giladdekel123/student-notes)
 
 ## על הדף הזה
 
